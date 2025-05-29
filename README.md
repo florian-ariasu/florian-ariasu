@@ -1,8 +1,7 @@
 ## Professional Overview  
+I am Florian, an undergraduate Computer Science student with a strong academic foundation in software development and systems engineering. As a digital native passionate about AI-integrated workflows, I specialize in leveraging artificial intelligence and prompt engineering to enhance technical support processes and product engineering solutions.
 
-I am Florian, an undergraduate Computer Science student specialising in DevOps practices and software development. My focus areas include cloud computing, automation, and scalable infrastructure from an operational and architectural perspective.
-
-I work extensively with Linux environments, Git-based version control, and shell scripting (Bash/Zsh). Having implemented automation workflows with GitHub Actions, I am actively expanding my expertise in CI/CD practices. My goal is to develop a deep understanding of DevOps and software engineering, with a strong emphasis on automation, infrastructure scalability, and efficient development workflows.
+My unique approach combines traditional computer science fundamentals with cutting-edge AI assistance, enabling me to deliver efficient problem-solving, comprehensive technical documentation, and superior customer support experiences. With fluent English communication skills and experience in modern AI-driven development practices, I am positioned to bring innovative AI-enhanced support methodologies to international technology teams.
 
 ---
 
@@ -11,56 +10,63 @@ I work extensively with Linux environments, Git-based version control, and shell
 
 ---
 
-### Learning & Development Focus  
-- **DevOps & Cloud** – CI/CD, Infrastructure as Code (Terraform), automation  
-- **Linux & Shell Scripting** – Bash, Zsh, system administration  
-- **Containerization & Orchestration** – Docker, Kubernetes  
-- **Software Development** – Systems programming, distributed systems, database design  
+### Core Competencies  
+- **AI-Enhanced Technical Support** – Prompt engineering, AI-assisted troubleshooting, intelligent documentation  
+- **Customer-Facing Communication** – Professional English proficiency, technical concept translation, international client support  
+- **Product Engineering Support** – Code analysis, debugging assistance, technical requirement interpretation  
+- **Modern Problem-Solving** – AI-integrated workflows, efficient issue resolution, systematic technical analysis  
 
 ---
 
-### Technologies & Tools  
+### Technologies & AI Integration  
+#### **Programming Foundation**  
+- **Core Languages:** C, C++, Java  
+- **Academic Experience:** Python, Haskell, Racket, Prolog, Assembly  
 
-#### **Programming Languages**  
-- **Proficient:** C, C++, Java  
-- **Academic Experience:** Python, Haskell, Racket, Assembly  
+#### **AI-Enhanced Support Tools**  
+- **Prompt Engineering:** Daily AI tool integration, custom prompt development, workflow optimization  
+- **Technical Documentation:** AI-assisted knowledge base creation, automated response generation  
+- **Debugging & Analysis:** AI-powered code review, intelligent error diagnosis, solution synthesis  
+- **Customer Communication:** AI-enhanced technical explanation, multilingual support capabilities  
 
-#### **DevOps & Infrastructure**  
-- **Containerization:** Docker, Kubernetes  
-- **Infrastructure as Code:** Terraform  
-- **Version Control & CI/CD:** Git, GitHub Actions, GitLab CI  
-- **Linux Systems Administration**  
-
-#### **Software Development**  
-- Operating Systems & Systems Programming  
-- Object-Oriented & Functional Paradigms  
-- Network Programming & Distributed Systems  
-- Algorithm Design & Optimisation  
+#### **Technical Infrastructure**  
+- **Development Environment:** Linux/Unix Systems, Shell Scripting (Bash/Zsh)  
+- **Version Control:** Git, GitHub, Collaborative Development Workflows  
+- **Systems Knowledge:** Operating Systems fundamentals, Communication Protocols theory  
+- **Programming Paradigms:** Object-Oriented, Functional, Logic Programming foundations  
 
 ---
 
-### Highlighted Projects  
-
+### Academic Projects  
 #### [Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)  
-* Backend system for museum and tourist group management with real-time notifications  
-* Implementation of enterprise design patterns (Singleton, Builder, Factory, Command, Observer)  
-* **Technologies:** Java, OOP, Design Patterns, Event-Driven Architecture  
+* University project: Backend system for museum and tourist group management with real-time notifications  
+* Applied enterprise design patterns with AI-assisted architecture planning and code optimization  
+* **Technologies:** Java, Object-Oriented Programming, Design Patterns, AI-Enhanced Development  
 
 #### [Functional Image Processing DSL](https://github.com/florian-ariasu/functional-image-processing-dsl)  
-* Domain-specific language for 2D image manipulation using a dual embedding approach  
-* Custom type classes and AST-based transformations for geometric operations  
-* **Technologies:** Haskell, Functional Programming, AST, Type Systems  
+* Academic project: Domain-specific language for 2D image manipulation using dual embedding approach  
+* Utilized AI tools for complex algorithm design and documentation generation  
+* **Technologies:** Haskell, Functional Programming, Abstract Syntax Trees, AI-Assisted Development  
 
 #### [Algorithm Optimisation Suite](https://github.com/florian-ariasu/algorithm-optimisation-suite)  
-* Server power optimisation using **binary search** (O(log n))  
-* Coloring problem solutions with **modular exponentiation** (O(n))  
-* Pricing optimisation through **dynamic programming** (O(n))  
-* **Technologies:** C++, Algorithm Design, Data Structures, Computational Optimisation  
+* Coursework project: Multi-algorithm optimization suite with AI-enhanced performance analysis  
+* Implemented binary search, modular exponentiation, and dynamic programming solutions  
+* **Technologies:** C++, Algorithm Design, AI-Powered Optimization, Performance Analysis  
 
 #### [Suffix Tree Implementation - C](https://github.com/florian-ariasu/c-suffix-tree-implementation)
-* Standard and compressed suffix trees for efficient pattern matching  
-* Optimised tree construction with memory-efficient path compression  
-* **Technologies:** C, Data Structures, Algorithms, Memory Management, Text Processing  
+* Data structures project: Advanced suffix tree implementation with AI-assisted memory optimization  
+* Developed efficient pattern matching algorithms using AI-guided design principles  
+* **Technologies:** C, Advanced Data Structures, Memory Management, AI-Enhanced Problem Solving  
+
+---
+
+### Professional Value Proposition  
+- **Next-Generation Support:** Pioneer in AI-integrated technical support methodologies, bringing cutting-edge efficiency to traditional support processes  
+- **Bilingual Technical Communication:** Native-level English proficiency enabling seamless communication with international clients and development teams  
+- **Rapid Problem Resolution:** AI-enhanced diagnostic capabilities for faster issue identification and solution implementation  
+- **Innovative Documentation:** AI-powered knowledge base development and maintenance for improved customer self-service experiences  
+- **Continuous Innovation:** Proactive integration of emerging AI technologies into support workflows and product engineering processes  
+- **Cultural Bridge:** Ability to translate complex technical concepts across cultural and linguistic boundaries in global technology environments  
 
 ---
 
