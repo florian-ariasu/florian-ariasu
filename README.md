@@ -5,11 +5,6 @@ My unique approach combines traditional computer science fundamentals with cutti
 
 ---
 
-### GitHub Activity  
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=florian-ariasu&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=transparent&hide_rank=true&include_all_commits=true)  
-
----
-
 ### Core Competencies  
 - **AI-Enhanced Technical Support** – Prompt engineering, AI-assisted troubleshooting, intelligent documentation  
 - **Customer-Facing Communication** – Professional English proficiency, technical concept translation, international client support  
