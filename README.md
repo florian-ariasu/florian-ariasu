@@ -17,10 +17,10 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 ---
 
 ### Academic Projects  
-#### [Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)  
-* University project: Backend system for museum and tourist group management with real-time notifications  
-* Applied enterprise design patterns with AI-assisted architecture planning and code optimization  
-* **Technologies:** Java, Object-Oriented Programming, Design Patterns, AI-Enhanced Development  
+#### [Mini-Libc](https://github.com/florian-ariasu/mini-libc)  
+* Academic project: Freestanding implementation of core C standard library using only Linux system calls  
+* Built string manipulation, memory allocation, and file I/O functions to mimic libc behavior at low level
+* **Technologies:** C, Linux Syscalls
 
 #### [Functional Image Processing DSL](https://github.com/florian-ariasu/functional-image-processing-dsl)  
 * Academic project: Domain-specific language for 2D image manipulation using dual embedding approach  
