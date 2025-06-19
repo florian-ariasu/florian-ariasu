@@ -14,6 +14,11 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 - **Systems Knowledge:** Operating Systems fundamentals, Communication Protocols theory  
 - **Programming Paradigms:** Object-Oriented, Functional
 
+#### **AI-Augmented Development**  
+- Regularly use a wide range of large language models (LLMs) including GitHub Copilot, GitHub Agents, ChatGPT, Gemini, Claude, and others to enhance productivity, solve technical problems
+- Leverage AI for code generation, refactoring, debugging, documentation, and design validation
+- Passionate about exploring new AI technologies, staying up-to-date with advancements in LLM capabilities, and integrating them into everyday development tasks  
+
 ---
 
 ### Academic Projects  
