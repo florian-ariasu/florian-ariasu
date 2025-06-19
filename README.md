@@ -33,7 +33,7 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 * Developed efficient pattern matching algorithms using AI-guided design principles  
 * **Technologies:** C, Advanced Data Structures, Memory Management, AI-Enhanced Problem Solving
 
-> **Disclaimer**: Each of the projects listed above was developed with the assistance of AI tools, including large language models, for ideation, code suggestions, debugging, documentation, and optimization. While the logic and direction are mine, much of the raw code was AI-assisted.
+> **Disclaimer:** The projects listed above were developed with significant support from AI tools, including large language models, which were used for ideation, code generation, debugging, documentation, and optimization. While some projects were primarily AI-driven, others reflect a collaborative effort where I contributed the core logic, architectural direction, or problem-solving strategy.
 
 ---
 
