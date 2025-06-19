@@ -17,15 +17,15 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 ---
 
 ### Academic Projects  
-#### [Mini-Libc](https://github.com/florian-ariasu/mini-libc)  
+#### [Mini Libc](https://github.com/florian-ariasu/mini-libc)  
 * Academic project: Freestanding implementation of core C standard library using only Linux system calls  
 * Built string manipulation, memory allocation, and file I/O functions to mimic libc behavior at low level
-* **Technologies:** C, Linux Syscalls
+* **Technologies:** C, Linux Syscalls, Memory Management
 
-#### [Functional Image Processing DSL](https://github.com/florian-ariasu/functional-image-processing-dsl)  
-* Academic project: Domain-specific language for 2D image manipulation using dual embedding approach  
-* Utilized AI tools for complex algorithm design and documentation generation  
-* **Technologies:** Haskell, Functional Programming, Abstract Syntax Trees, AI-Assisted Development  
+#### [Online Voting Platform](https://github.com/florian-ariasu/online-voting-platform)  
+* Academic project: Object-oriented election management system with multi-stage voting, candidate tracking, and data parsing
+* Applied inheritance, abstraction, and encapsulation to model voters, candidates, and election stages using Java and Gradle
+* **Technologies:** Java, OOP, Collections (HashMap, ArrayList), Enums, Gradle, Design Patterns
 
 #### [Algorithm Optimisation Suite](https://github.com/florian-ariasu/algorithm-optimisation-suite)  
 * Coursework project: Multi-algorithm optimization suite with AI-enhanced performance analysis  
@@ -35,7 +35,9 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 #### [Suffix Tree Implementation - C](https://github.com/florian-ariasu/c-suffix-tree-implementation)
 * Data structures project: Advanced suffix tree implementation with AI-assisted memory optimization  
 * Developed efficient pattern matching algorithms using AI-guided design principles  
-* **Technologies:** C, Advanced Data Structures, Memory Management, AI-Enhanced Problem Solving  
+* **Technologies:** C, Advanced Data Structures, Memory Management, AI-Enhanced Problem Solving
+
+> **Disclaimer**: Each of the projects listed above was developed with the assistance of AI tools, including large language models, for ideation, code suggestions, debugging, documentation, and optimization. While the logic and direction are mine, much of the raw code was AI-assisted.
 
 ---
 
