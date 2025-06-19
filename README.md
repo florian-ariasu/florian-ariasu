@@ -1,5 +1,5 @@
 ## Professional Overview  
-I am Florian, an undergraduate Computer Science student with a strong academic foundation in software development and systems engineering. As a digital native passionate about AI-integrated workflows, I specialize in leveraging artificial intelligence and prompt engineering to enhance technical support processes and product engineering solutions.
+I am Florian, an undergraduate Computer Science student with a strong academic foundation in software development and systems engineering. As a digital passionate about AI-integrated workflows, I specialize in leveraging artificial intelligence and prompt engineering to enhance technical support processes and product engineering solutions.
 
 ---
 
