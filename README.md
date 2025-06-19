@@ -17,10 +17,6 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 ---
 
 ### Academic Projects  
-#### [Mini Libc](https://github.com/florian-ariasu/mini-libc)  
-* Academic project: Freestanding implementation of core C standard library using only Linux system calls  
-* Built string manipulation, memory allocation, and file I/O functions to mimic libc behavior at low level
-* **Technologies:** C, Linux Syscalls, Memory Management
 
 #### [Online Voting Platform](https://github.com/florian-ariasu/online-voting-platform)  
 * Academic project: Object-oriented election management system with multi-stage voting, candidate tracking, and data parsing
@@ -32,7 +28,7 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 * Implemented binary search, modular exponentiation, and dynamic programming solutions  
 * **Technologies:** C++, Algorithm Design, AI-Powered Optimization, Performance Analysis  
 
-#### [Suffix Tree Implementation - C](https://github.com/florian-ariasu/c-suffix-tree-implementation)
+#### [Suffix Tree Implementation](https://github.com/florian-ariasu/c-suffix-tree-implementation)
 * Data structures project: Advanced suffix tree implementation with AI-assisted memory optimization  
 * Developed efficient pattern matching algorithms using AI-guided design principles  
 * **Technologies:** C, Advanced Data Structures, Memory Management, AI-Enhanced Problem Solving
