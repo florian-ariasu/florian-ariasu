@@ -3,30 +3,16 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 
 ---
 
-### Core Competencies  
-- **AI-Enhanced Technical Support** – Prompt engineering, AI-assisted troubleshooting, intelligent documentation  
-- **Customer-Facing Communication** – Professional English proficiency, technical concept translation, international client support  
-- **Product Engineering Support** – Code analysis, debugging assistance, technical requirement interpretation  
-- **Modern Problem-Solving** – AI-integrated workflows, efficient issue resolution, systematic technical analysis  
-
----
-
 ### Technologies & AI Integration  
 #### **Programming Foundation**  
 - **Core Languages:** C, C++, Java  
-- **Academic Experience:** Python, Haskell, Racket, Prolog, Assembly  
-
-#### **AI-Enhanced Support Tools**  
-- **Prompt Engineering:** Daily AI tool integration, custom prompt development, workflow optimization  
-- **Technical Documentation:** AI-assisted knowledge base creation, automated response generation  
-- **Debugging & Analysis:** AI-powered code review, intelligent error diagnosis, solution synthesis  
-- **Customer Communication:** AI-enhanced technical explanation, multilingual support capabilities  
+- **Academic Experience:** Python, Haskell, Racket, Prolog
 
 #### **Technical Infrastructure**  
 - **Development Environment:** Linux/Unix Systems, Shell Scripting (Bash/Zsh)  
 - **Version Control:** Git, GitHub, Collaborative Development Workflows  
 - **Systems Knowledge:** Operating Systems fundamentals, Communication Protocols theory  
-- **Programming Paradigms:** Object-Oriented, Functional, Logic Programming foundations  
+- **Programming Paradigms:** Object-Oriented, Functional
 
 ---
 
@@ -54,12 +40,9 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 ---
 
 ### Professional Value Proposition  
-- **Next-Generation Support:** Pioneer in AI-integrated technical support methodologies, bringing cutting-edge efficiency to traditional support processes  
-- **Bilingual Technical Communication:** Native-level English proficiency enabling seamless communication with international clients and development teams  
+- **Bilingual Technical Communication:** Upper Intermediate English proficiency enabling seamless communication with international clients and development teams  
 - **Rapid Problem Resolution:** AI-enhanced diagnostic capabilities for faster issue identification and solution implementation  
-- **Innovative Documentation:** AI-powered knowledge base development and maintenance for improved customer self-service experiences  
-- **Continuous Innovation:** Proactive integration of emerging AI technologies into support workflows and product engineering processes  
-- **Cultural Bridge:** Ability to translate complex technical concepts across cultural and linguistic boundaries in global technology environments  
+- **Continuous Innovation:** Proactive integration of emerging AI technologies into both technical and normal day-to-day tasks (Continuous use of LLM's on a daily basis)
 
 ---
 
