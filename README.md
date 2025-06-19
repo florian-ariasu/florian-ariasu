@@ -1,8 +1,6 @@
 ## Professional Overview  
 I am Florian, an undergraduate Computer Science student with a strong academic foundation in software development and systems engineering. As a digital native passionate about AI-integrated workflows, I specialize in leveraging artificial intelligence and prompt engineering to enhance technical support processes and product engineering solutions.
 
-My unique approach combines traditional computer science fundamentals with cutting-edge AI assistance, enabling me to deliver efficient problem-solving, comprehensive technical documentation, and superior customer support experiences. With fluent English communication skills and experience in modern AI-driven development practices, I am positioned to bring innovative AI-enhanced support methodologies to international technology teams.
-
 ---
 
 ### Core Competencies  
