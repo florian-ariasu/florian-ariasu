@@ -36,7 +36,7 @@ I am Florian, an undergraduate Computer Science student with a strong academic f
 #### [Suffix Tree Implementation](https://github.com/florian-ariasu/c-suffix-tree-implementation)
 * Data structures project: Advanced suffix tree implementation with AI-assisted memory optimization  
 * Developed efficient pattern matching algorithms using AI-guided design principles  
-* **Technologies:** C, Advanced Data Structures, Memory Management, AI-Enhanced Problem Solving
+* **Technologies:** C, Advanced Data Structures, Memory Management
 
 > **Disclaimer:** The projects listed above were developed with significant support from AI tools, including large language models, which were used for ideation, code generation, debugging, documentation, and optimization. While some projects were primarily AI-driven, others reflect a collaborative effort where I contributed the core logic, architectural direction, or problem-solving strategy.
 
