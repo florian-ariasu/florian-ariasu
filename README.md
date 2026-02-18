@@ -10,7 +10,7 @@ Final-year Computer Science and Information Technology student at UNSTPB ACS wit
 - **Diagnostic Logic:** Engineered a hybrid decision pipeline to suppress false positives caused by radiological artefacts and metallic restorations.
 - **Data Engineering:** Coordinated the processing of over 18,000 dental image patches, producing a robust training environment for early-stage lesion detection.
 - **Critical Analysis:** Conducted a structured comparative evaluation between the baseline and cascade system, documenting methodological limitations in a final IEEE-format report.
-- **Stack:** Python · YOLOv8 · ResNet50 · Jupyter Notebooks
+- **Stack:** Python · YOLOv8 · ResNet50
 
 ### [Air Traffic Control System](https://github.com/florian-ariasu/air-traffic-control-system)
 *An object-oriented Java ATC system with generic runways, priority-based flight scheduling, and custom exceptions for takeoff and landing management, built using Gradle.*
