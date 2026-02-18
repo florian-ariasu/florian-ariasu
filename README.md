@@ -4,7 +4,7 @@ Final-year Computer Science and Information Technology student at UNSTPB ACS wit
 
 ## Relevant Projects
 
-### [Dental Caries Detection — Medical AI](https://github.com/florian-ariasu/dental-caries-cascade)
+### [Dental Caries Detection](https://github.com/florian-ariasu/dental-caries-cascade)
 *A two-stage cascade system for dental caries detection in panoramic radiographs, combining YOLOv8 localization with ResNet50 patch verification to improve diagnostic precision.*
 
 - **Diagnostic Logic:** Engineered a hybrid decision pipeline to suppress false positives caused by radiological artefacts and metallic restorations.
