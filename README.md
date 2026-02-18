@@ -58,6 +58,6 @@ Final-year Computer Science and Information Technology student at UNSTPB ACS wit
 
 ## Education
 
-**B.Eng. in Computer Science and Information Technology (CTI)**  
-Politehnica University of Bucharest — Faculty of Automatic Control and Computer Science (UPB ACS)  
-*2021 – Present (Year 4)*
+**B.Eng. in Computer Science and Information Technology**  
+Politehnica University of Bucharest — Faculty of Automatic Control and Computer Science 
+*2022 – Present (Year 4)*
