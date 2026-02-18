@@ -1,4 +1,4 @@
-Final-year Computer Science and Information Technology student at UPB ACS with a strong academic foundation in software engineering and a focused career interest in **technical support, system reliability, and customer engineering**.
+Final-year Computer Science and Information Technology student at UNSTPB ACS with a strong academic foundation in software engineering and a focused career interest in **technical support, system reliability, and customer engineering**.
 
 ---
 
