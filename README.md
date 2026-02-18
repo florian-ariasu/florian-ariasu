@@ -36,7 +36,7 @@ Final-year Computer Science and Information Technology student with a strong aca
 - Quantitatively compared IDA\* and Simulated Annealing across metrics including expanded states and runtime.
 - Implemented Dynamic Programming and Greedy strategies for resource efficiency maximization.
 
-`Python` `C++`
+`C++`
 
 **Other Projects**
 
