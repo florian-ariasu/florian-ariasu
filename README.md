@@ -1,12 +1,4 @@
-Final-year Computer Science and Information Technology student at UPB ACS with a strong academic foundation in software engineering and a focused career interest in **technical support, system reliability, and customer engineering**. Adept at diagnosing complex edge-case failures, translating technical requirements into user-facing solutions, and streamlining workflows through automation and scripting.
-
----
-
-## Professional Objectives
-
-- **System Integrity** — Rapid identification and resolution of edge-case failures across hardware and software systems.
-- **Customer Advocacy** — Bridging the gap between technical complexity and end-user needs through clear communication and targeted problem-solving.
-- **Automation & Testing** — Reducing manual overhead through scripted workflows, AI-assisted tooling, and systematic test design.
+Final-year Computer Science and Information Technology student at UPB ACS with a strong academic foundation in software engineering and a focused career interest in **technical support, system reliability, and customer engineering**.
 
 ---
 
