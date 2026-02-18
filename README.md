@@ -51,7 +51,8 @@ Final-year Computer Science and Information Technology student with a strong aca
 | :--------------- | :-------------------------------------------------------------- |
 | **Languages**    | Java · C++ · Python · C# · C · Lua                              |
 | **Tools**        | Git · Gradle · Bash/Zsh · Ubuntu · GitHub · Docker              |
-| **Productivity** | AI-Assisted Development · Technical Documentation (IEEE Format) |
+| **AI Usage**     | Integrated across development, debugging, research, and writing |
+| **Productivity** | Technical Documentation (IEEE Format)                           |
 
 ---
 
