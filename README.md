@@ -49,9 +49,8 @@ Final-year Computer Science and Information Technology student at UNSTPB ACS wit
 
 | Category            | Details                                                         |
 | :------------------ | :-------------------------------------------------------------- |
-| **Languages**       | Java · C++ · Python · C# · C · Lua                             |
-| **Specializations** | Error Handling · System Optimization · Data Analysis            |
-| **Tools**           | Git · Gradle · Linux (Custom Dotfiles) · Jupyter Notebooks      |
+| **Languages**       | Java · C++ · Python · C# · C · Lua                              |
+| **Tools**           | Git · Gradle · Bash/Zsh · Ubuntu · GitHub · Docker              |
 | **Productivity**    | AI-Assisted Development · Technical Documentation (IEEE Format) |
 
 ---
