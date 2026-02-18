@@ -25,9 +25,9 @@ Final-year Computer Science and Information Technology student at UPB ACS with a
 
 - **Troubleshooting:** Designed and implemented a custom exception hierarchy to handle critical runtime scenarios, including unavailable runways and allocation conflicts.
 - **Maintainability:** Leveraged Java Generics to ensure codebase scalability and reuse across heterogeneous aircraft types.
-- **Stack:** Java · Gradle · Priority Collections
+- **Stack:** Java · Gradle
 
-### [OpenBook — Open-Source E-Reader Hardware](https://github.com/florian-ariasu/ebook-reader)
+### [OpenBook — Open-Source E-Reader](https://github.com/florian-ariasu/ebook-reader)
 *An open-source hardware project for building a portable, ESP32-C6–based e-book reader with an E-Paper display, microSD storage, USB-C power/data, and Li-Po battery support.*
 
 - **System Design:** Configured the ESP32-C6 pinout and integrated environmental sensors over the I²C bus.
@@ -44,7 +44,7 @@ Final-year Computer Science and Information Technology student at UPB ACS with a
 ### [Atomic Compact Suffix Tree](https://github.com/florian-ariasu/atomic-compact-suffix-tree)
 *Atomic and compact suffix trees with construction, compression, and suffix queries.*
 
-- **Stack:** C · MIT License
+- **Stack:** C
 
 ### [Online Voting Platform](https://github.com/florian-ariasu/online-voting-platform)
 *An object-oriented Java project implementing an online voting platform with classes for elections, candidates, voters, and voting management, built using Gradle.*
