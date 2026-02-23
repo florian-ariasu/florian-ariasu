@@ -1,4 +1,4 @@
-Final-year Computer Science and Information Technology student with a strong academic foundation in software engineering and a focused career interest in **technical support, system reliability, and customer engineering**.
+Final-year Computer Science and Information Technology student with hands-on experience across software engineering, applied AI, and hardware integration, seeking a role in **technical support, system reliability, or customer engineering**.
 
 ---
 
@@ -29,8 +29,8 @@ Final-year Computer Science and Information Technology student with a strong aca
 
 ### [OpenBook — Open-Source E-Reader](https://github.com/florian-ariasu/ebook-reader)
 *An open-source hardware project for building a portable, ESP32-C6–based e-book reader with an E-Paper display, microSD storage, USB-C power/data, and Li-Po battery support.*
-- Configured the ESP32-C6 pinout and integrated environmental sensors over the I²C bus.
-- Managed the PCB routing phase, manually validating design rule violations to ensure physical device integrity.
+- Designed the full ESP32-C6 pinout across SPI and I²C buses, integrating the E-Paper display, BME680 sensor, RTC, fuel gauge, NOR flash, and microSD card on shared communication lines.
+- Managed the PCB routing phase in Autodesk Fusion 360, resolving DRC and ERC violations and manually approving non-critical SMD hole warnings after physical verification.
 
 `ESP32-C6` `Autodesk Fusion 360` `E-Paper Display`
 
