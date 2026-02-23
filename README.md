@@ -1,4 +1,4 @@
-Final-year Computer Science and Information Technology student with hands-on experience across software engineering, applied AI, and hardware integration, seeking a role in **technical support, system reliability, or customer engineering**.
+Final-year Computer Science and Information Technology student with hands-on experience across software engineering, applied AI, and hardware integration. Attentive to repository structure, documentation, and tooling — with a consistent habit of maintaining well-organised, well-documented projects. Seeking a role in **technical support, system reliability, or customer engineering**.
 
 ---
 
@@ -32,22 +32,23 @@ Final-year Computer Science and Information Technology student with hands-on exp
 - Designed the full ESP32-C6 pinout across SPI and I²C buses, integrating the E-Paper display, BME680 sensor, RTC, fuel gauge, NOR flash, and microSD card on shared communication lines.
 - Managed the PCB routing phase in Autodesk Fusion 360, resolving DRC and ERC violations and manually approving non-critical SMD hole warnings after physical verification.
 
-`ESP32-C6` `Autodesk Fusion 360`
+`ESP32-C6` `Autodesk Fusion 360` `E-Paper Display`
 
 **Other Projects**
+- [AI Search Benchmarks](https://github.com/florian-ariasu/ai-search-benchmarks) — Benchmarking IDA\*, A\*, and Simulated Annealing across difficulty-scaled maps with performance metrics and visualizations. `Python`
 - [Atomic Compact Suffix Tree](https://github.com/florian-ariasu/atomic-compact-suffix-tree) — Atomic and compact suffix trees with construction, compression, and suffix queries. `C`
-- [IIR Filter Design](https://github.com/florian-ariasu/iir-filter-design) — Manual design and evaluation of Butterworth and Chebyshev-I low-pass IIR filters in Python, applied to ECG denoising. `Python`
+- [IIR Filter Design](https://github.com/florian-ariasu/iir-filter-design) — Butterworth and Chebyshev-I low-pass IIR filters implemented from scratch in Python, applied to ECG denoising. `Python`
 
 ---
 
 ## Technical Skills
 
-| Category         | Details                                                         |
-| :--------------- | :-------------------------------------------------------------- |
-| **Languages**    | Java · C++ · Python · C# · C · Lua                              |
-| **Tools**        | Git · Gradle · Bash/Zsh · Ubuntu · GitHub · Docker · Jupyter Notebooks |
-| **AI Usage**     | Integrated across development, debugging, research, and writing |
-| **Productivity** | Technical Documentation (IEEE Format)                           |
+| Category         | Details                                                                          |
+| :--------------- | :------------------------------------------------------------------------------- |
+| **Languages**    | Java · C++ · Python · C# · C · Lua                                               |
+| **Tools**        | Git · Gradle · Bash/Zsh · Ubuntu · GitHub · Docker · Jupyter Notebooks           |
+| **AI Usage**     | Daily driver — across development, debugging, research, writing, and tooling     |
+| **Practices**    | Technical Documentation (IEEE Format) · Structured repo organisation · Markdown  |
 
 ---
 
