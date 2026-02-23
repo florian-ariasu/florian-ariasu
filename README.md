@@ -32,7 +32,7 @@ Final-year Computer Science and Information Technology student with hands-on exp
 - Designed the full ESP32-C6 pinout across SPI and I²C buses, integrating the E-Paper display, BME680 sensor, RTC, fuel gauge, NOR flash, and microSD card on shared communication lines.
 - Managed the PCB routing phase in Autodesk Fusion 360, resolving DRC and ERC violations and manually approving non-critical SMD hole warnings after physical verification.
 
-`ESP32-C6` `Autodesk Fusion 360` `E-Paper Display`
+`ESP32-C6` `Autodesk Fusion 360`
 
 **Other Projects**
 - [Atomic Compact Suffix Tree](https://github.com/florian-ariasu/atomic-compact-suffix-tree) — Atomic and compact suffix trees with construction, compression, and suffix queries. `C`
