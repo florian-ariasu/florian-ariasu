@@ -27,7 +27,7 @@ Final-year Computer Science and Information Technology student with hands-on exp
 
 `Java` `Gradle`
 
-### [OpenBook — Open-Source E-Reader](https://github.com/florian-ariasu/ebook-reader)
+### [OpenBook — Open-Source E-Reader](https://github.com/florian-ariasu/openbook-e-reader)
 *An open-source hardware project for building a portable, ESP32-C6–based e-book reader with an E-Paper display, microSD storage, USB-C power/data, and Li-Po battery support.*
 - Designed the full ESP32-C6 pinout across SPI and I²C buses, integrating the E-Paper display, BME680 sensor, RTC, fuel gauge, NOR flash, and microSD card on shared communication lines.
 - Managed the PCB routing phase in Autodesk Fusion 360, resolving DRC and ERC violations and manually approving non-critical SMD hole warnings after physical verification.
