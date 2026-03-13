@@ -21,7 +21,7 @@ Final-year Computer Science and Information Technology student with hands-on exp
 `Java` `Gradle`
 
 ### [Air Traffic Control System](https://github.com/florian-ariasu/air-traffic-control-system)
-*An object-oriented Java ATC system with generic runways, priority-based flight scheduling, and custom exceptions for takeoff and landing management, built using Gradle.*
+*An object-oriented Java ATC system with generic runways, priority-based flight scheduling, and custom exceptions for takeoff and landing management.*
 - Designed and implemented a custom exception hierarchy to handle critical runtime scenarios, including unavailable runways and allocation conflicts.
 - Leveraged Java Generics to ensure codebase scalability and reuse across heterogeneous aircraft types.
 
