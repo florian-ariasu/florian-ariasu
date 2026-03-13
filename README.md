@@ -12,8 +12,8 @@ Final-year Computer Science and Information Technology student with hands-on exp
 
 `Python` `YOLOv8` `ResNet50`
 
-### [eBanking Trading Platform](https://github.com/florian-ariasu/ebanking-trading-platform)
-*A Java eBanking and trading platform implementing Singleton, Command, Factory, and Strategy patterns with SMA-based stock recommendations and premium financial logic.*
+### [Java Banking System](https://github.com/florian-ariasu/java-banking-system)
+*Java platform built around Command, Factory, and Strategy design patterns with premium financial logic.*
 - Modelled a commission engine using the Strategy pattern, enabling runtime-configurable rules across standard and premium user tiers.
 - Implemented an SMA crossover algorithm for stock recommendations, integrating multi-currency exchange logic with a CSV-driven rate matrix.
 - Applied Command and Factory patterns to decouple input parsing from business logic, producing a clean, extensible command-driven architecture.
