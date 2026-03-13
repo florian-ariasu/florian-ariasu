@@ -36,8 +36,8 @@ Final-year Computer Science and Information Technology student with hands-on exp
 
 **Other Projects**
 - [AI Search Benchmarks](https://github.com/florian-ariasu/ai-search-benchmarks) — Benchmarking IDA\*, A\*, and Simulated Annealing across difficulty-scaled maps with performance metrics and visualizations. `Python`
-- [Atomic Compact Suffix Tree](https://github.com/florian-ariasu/atomic-compact-suffix-tree) — Atomic and compact suffix trees with construction, compression, and suffix queries. `C`
 - [IIR Filter Design](https://github.com/florian-ariasu/iir-filter-design) — Butterworth and Chebyshev-I low-pass IIR filters implemented from scratch in Python, applied to ECG denoising. `Python`
+- [Algorithm Optimisation Suite](https://github.com/florian-ariasu/algorithm-optimisation-suite) — Binary search, dynamic programming, greedy optimisation, modular exponentiation, and two-pointer traversal applied to five computational problems. `C++`
 
 ---
 
