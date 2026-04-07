@@ -1,4 +1,5 @@
 Final-year Computer Science and Information Technology student, building at the intersection of software engineering, applied AI, and hardware integration. I care about the craft around the code — structured repositories, clean documentation, and consistent standards across every project I ship.
+
 ---
 
 ## Relevant Projects
