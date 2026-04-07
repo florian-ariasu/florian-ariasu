@@ -1,5 +1,4 @@
-Final-year Computer Science and Information Technology student with hands-on experience across software engineering, applied AI, and hardware integration. Attentive to repository structure, documentation, and tooling — with a consistent habit of maintaining well-organised, well-documented projects. Seeking a role in **technical support, system reliability, or customer engineering**.
-
+Final-year Computer Science and Information Technology student, building at the intersection of software engineering, applied AI, and hardware integration. I care about the craft around the code — structured repositories, clean documentation, and consistent standards across every project I ship.
 ---
 
 ## Relevant Projects
