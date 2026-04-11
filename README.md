@@ -35,9 +35,7 @@ Final-year Computer Science and Information Technology student, building at the 
 `ESP32-C6` `Autodesk Fusion 360` `E-Paper Display`
 
 **Other Projects**
-- [AI Search Benchmarks](https://github.com/florian-ariasu/ai-search-benchmarks) — Benchmarking IDA\*, A\*, and Simulated Annealing across difficulty-scaled maps with performance metrics and visualizations. `Python`
 - [IIR Filter Design](https://github.com/florian-ariasu/iir-filter-design) — Butterworth and Chebyshev-I low-pass IIR filters implemented from scratch in Python, applied to ECG denoising. `Python`
-- [Algorithm Optimisation Suite](https://github.com/florian-ariasu/algorithm-optimisation-suite) — Binary search, dynamic programming, greedy optimisation, modular exponentiation, and two-pointer traversal applied to five computational problems. `C++`
 
 ---
 
