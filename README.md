@@ -47,17 +47,17 @@ Final-year Computer Science and Information Technology student, building at the 
 
 ## Technical Skills
 
-| Category         | Details                                                                          |
-| :--------------- | :------------------------------------------------------------------------------- |
-| **Languages**    | Java · C++ · Python · C# · C · Lua                                               |
-| **Tools**        | Git · Gradle · Bash/Zsh · Ubuntu · GitHub · Docker · Jupyter Notebooks           |
-| **AI Usage**     | Daily driver — across development, debugging, research, writing, and tooling     |
-| **Practices**    | Technical Documentation (IEEE Format) · Structured repo organisation · Markdown  |
+| Category | Details |
+| :--- | :--- |
+| **Languages** | Java · C · C++ · C# · Python · Lua |
+| **Tools** | Git · GitHub · Bash/Zsh · Ubuntu · Docker · Gradle · Jupyter |
+| **AI Usage** | Daily driver — across development, debugging, research, writing, and tooling |
+| **Practices** | Technical Documentation (IEEE Format) · Structured repo organisation · Markdown |
 
 ---
 
 ## Education
 
-**B.Eng. in Computer Science and Information Technology**  
-Politehnica University of Bucharest — Faculty of Automatic Control and Computer Science  
-*2022 – Present (Year 4)*
+**B.Eng. in Computer Science and Information Technology**
+Politehnica University of Bucharest — Faculty of Automatic Control and Computer Science
+*2022 – 2027 (expected)*
