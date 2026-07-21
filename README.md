@@ -1,4 +1,6 @@
-Final-year Computer Science and Information Technology student, building across software engineering, applied AI, and systems programming. I care about the craft around the code — structured repositories, clean documentation, and consistent standards across every project I ship.
+Computer Science and Information Technology student at Politehnica University of Bucharest, currently interning as an Application Support Engineer at IDEMIA Secure Transactions. I build 
+across software engineering, applied AI, and systems programming. I care about the craft around the code — structured repositories, clean documentation, and consistent standards across 
+every project I ship.
 
 ---
 
